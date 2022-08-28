@@ -10,3 +10,9 @@ https://education.illinoisstate.edu/grapevine/
 https://education.illinoisstate.edu/grapevine/about/ 
 
 Convert tables to csv; choose tax appropriations or total fiscal support; visualize with data re: state populations and/or other metrics, and/or average college costs
+
+digest of education statistics https://nces.ed.gov/programs/digest/ 
+
+shows increasing total costs (as does ipeds cost of attendance info, downloaded) 
+
+compare with student default rates? By state? 
