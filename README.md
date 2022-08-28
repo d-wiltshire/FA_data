@@ -9,3 +9,4 @@ Since 1960, Grapevine has published annual compilations of data on state tax sup
 https://education.illinoisstate.edu/grapevine/
 https://education.illinoisstate.edu/grapevine/about/ 
 
+Convert tables to csv; choose tax appropriations or total fiscal support; visualize with data re: state populations and/or other metrics, and/or average college costs
