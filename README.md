@@ -22,6 +22,8 @@ digest of education statistics https://nces.ed.gov/programs/digest/
 *has fall enrollment broken down by state
 
 
-shows increasing total costs (as does ipeds cost of attendance info, downloaded) 
+shows increasing total costs, but not broken down by state (as does ipeds cost of attendance info, downloaded) 
+> does IPEDS break down total costs by state?
 
-compare with student default rates? By state? 
+
+Can we compare with student default rates? By state? 
