@@ -27,3 +27,12 @@ shows increasing total costs, but not broken down by state (as does ipeds cost o
 
 
 Can we compare with student default rates? By state? 
+
+-- 
+
+Analyzing college rankings  - R and machine learning
+
+Finding datasets 
+US News
+Forbes
+Washington Monthly
